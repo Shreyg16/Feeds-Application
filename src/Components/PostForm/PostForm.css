@@ -1,0 +1,38 @@
+.outer-form{
+    border: 2px solid black;
+    height: 450px;
+    width: 30%;
+    margin-left: 535px;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+}
+.feeds-heading{
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    margin-top: 25px;
+}
+.post-title{
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.post-content{
+    margin-top: 20px;
+    margin-left: 140px;
+    width: auto;
+    height: auto;
+}
+.create-btn{
+    margin-top: 30px;
+    margin-left: 170px;
+    height: 30px;
+    width: 26%;
+    background-color: rgb(237 234 234);
+    color: black;
+    text-align: center;
+    padding-top: 2px;
+    border: 1px solid black;
+    text-decoration: none;
+}

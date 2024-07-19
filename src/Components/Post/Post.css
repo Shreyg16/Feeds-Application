@@ -1,0 +1,43 @@
+.post{
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    /* margin-left: 335px; */
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    display: inline-block;
+}
+.edit-btn{
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 30px;
+    width: 15%;
+    background-color: rgb(237 234 234);
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+}
+.delete-btn{
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 30px;
+    width: 15%;
+    background-color: rgb(237 234 234);
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+}
+.title{
+    margin-left: 15px;
+    text-transform: uppercase;
+}
+.content{
+    margin-left: 15px;
+   
+}

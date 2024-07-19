@@ -1,0 +1,96 @@
+
+.register-heading{
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    margin-top: 25px;
+}
+.outerboundry{
+    border: 2px solid black;
+    height: 550px;
+    width: 30%;
+    margin-left: 535px;
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+}
+.user-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+.pass-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+.email-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+.phone-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+.drop-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+#register-login-btn{
+    margin-top: 75px;
+    margin-left: 90px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+
+}
+#register-button{
+    margin-top: 75px;
+    margin-left: 70px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+}
+
+#btn1{
+    margin-top: 0px;
+    margin-left: 5px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    text-decoration: none;
+}
+#btn2{
+    margin-top: 0px;
+    margin-left: 5px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    text-decoration: none;
+}

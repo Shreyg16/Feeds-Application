@@ -1,0 +1,68 @@
+
+.login-heading{
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    margin-top: 25px;
+}
+#outerboundry{
+    border: 2px solid black;
+    height: 400px;
+    width: 30%;
+    margin-left: 535px;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+}
+.user-input{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 25px;
+}
+.pass-input{
+    margin-top: 40px;
+    margin-left: 150px;
+    height: 25px;
+}
+
+#login{
+    margin-top: 0px;
+    margin-left: 5px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    text-decoration: none;
+}
+#login-btn{
+    
+    margin-top: 70px;
+    margin-left: 100px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+}
+#register-btn{
+    margin-top: 70px;
+    margin-left: 40px;
+    height: 30px;
+    width: 25%;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+    border: 2px solid black;
+}
